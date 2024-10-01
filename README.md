@@ -10,3 +10,5 @@ filling the screen. After it fully covers the screen, the display loops.
 
 # Demonstration
 Once the code is uploaded, the display should look like this:
+
+This display was added to a decorated envelope with an attached battery, then put on display:
