@@ -8,6 +8,9 @@ Take the code in marbles.ino and put it into the Arduino IDE. After connecting y
 After the code is uploaded successfully, the display should have round balls of different colors scattering, slowing down/going off screen, and then a white circle 
 filling the screen. After it fully covers the screen, the display loops.
 
+
+Ensure that there is a power source for the ESP32 display: battery, computer, etc.
+
 # Demonstration
 Once the code is uploaded, the display should look like this:
 
