@@ -20,5 +20,11 @@ Ensure that there is a power source for the ESP32 display: battery, computer, et
 <a href="url"><img src="https://github.com/huangs-nyc/falling-marbles-esp32/blob/a68b3388f226019fb707169c2a9eec97c21c5a71/pictures_gifs/battery_board.png" height="400" width="300"></a>
 
 3) Prepare a cardstock envelope big enough to fit the battery and board with a hole for the display and smaller holdes for string, and decorate the way that you want.
+
+<a href="url"><img src="https://github.com/huangs-nyc/falling-marbles-esp32/blob/8175d991538d366b951dc2c3cd182b5d1e919bae/pictures_gifs/envelope.png" height="400" width="300"></a>
 4) Tape the board and battery to the envelope, fold it up, and tape it closed.
+<a href="url"><img src="https://github.com/huangs-nyc/falling-marbles-esp32/blob/8175d991538d366b951dc2c3cd182b5d1e919bae/pictures_gifs/board_envelope.png" height="400" width="300"></a>
+<a href="url"><img src="https://github.com/huangs-nyc/falling-marbles-esp32/blob/8175d991538d366b951dc2c3cd182b5d1e919bae/pictures_gifs/battery_board_envelope.png" height="400" width="300"></a>
+<a href="url"><img src="https://github.com/huangs-nyc/falling-marbles-esp32/blob/8175d991538d366b951dc2c3cd182b5d1e919bae/pictures_gifs/wrapped_display.png" height="400" width="300"></a>
 5) Tie the string onto the envelope so that it hangs from the screen.
+<a href="url"><img src="https://github.com/huangs-nyc/falling-marbles-esp32/blob/a68b3388f226019fb707169c2a9eec97c21c5a71/pictures_gifs/battery_board.png" height="400" width="300"></a>
