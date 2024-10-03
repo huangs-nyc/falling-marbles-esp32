@@ -35,4 +35,4 @@ Ensure that there is a power source for the ESP32 display: battery, computer, et
 4) Tie the string onto the envelope so that it hangs from the screen.
 
 
-<a href="url"><img src="https://github.com/huangs-nyc/falling-marbles-esp32/blob/a68b3388f226019fb707169c2a9eec97c21c5a71/pictures_gifs/battery_board.png" height="400" width="300"></a>
+<a href="url"><img src="https://github.com/huangs-nyc/falling-marbles-esp32/blob/967ae242684170d3aaf4f052ab38e6f670dcbf50/pictures_gifs/finished_envelope.png" height="400" width="300"></a>
