@@ -10,7 +10,9 @@ filling the screen. After it fully covers the screen, the display loops.
 
 It should look like this: 
 
-![ttg0_display](https://github.com/huangs-nyc/falling-marbles-esp32/blob/cfb5ad8b18f710b665ffc408cbe3234081281791/pictures_gifs/ttgo_display.gif)
+![ttgo_display](https://github.com/huangs-nyc/falling-marbles-esp32/blob/cfb5ad8b18f710b665ffc408cbe3234081281791/pictures_gifs/ttgo_display.gif)
+
+
 
 Ensure that there is a power source for the ESP32 display: battery, computer, etc.
 
