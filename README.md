@@ -1,5 +1,6 @@
 # About
-This is the code respository for a falling marbles display, created for Creative Embedded Systems, and written in C++.
+This is the code respository for a falling marbles display, created for Creative Embedded Systems, and written in C++. The design goal of this
+project was to create a theme centered around "The Fall", which I did by emulating the random movement of dropping marbles.
 
 Link to blog post with in-depth development process: https://star-truffle-b24.notion.site/Welcome-to-Steven-s-C-E-S-Blog-1124dc2df41c8034a42bfcaa1fb9474e
 
