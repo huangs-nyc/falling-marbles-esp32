@@ -12,12 +12,13 @@ It should look like this:
 
 ![ttgo_display](https://github.com/huangs-nyc/falling-marbles-esp32/blob/9dd9c91e0a2454330561698767850b9a9c17cc93/pictures_gifs/ttgo_display.gif)
 
-
-
 Ensure that there is a power source for the ESP32 display: battery, computer, etc.
 
 # Display Installation
 1) Once the display is functional and looks like the above, you can attach a battery to the side of the board opposite of the display screen.
-2) Prepare a cardstock envelope big enough to fit the battery and board with a hole for the display and smaller holdes for string, and decorate the way that you want.
-3) Tape the board and battery to the envelope, fold it up, and tape it closed.
-4) Tie the string onto the envelope so that it hangs from the screen.
+
+<a href="url"><img src="" align="left" height="48" width="48" ></a>
+
+3) Prepare a cardstock envelope big enough to fit the battery and board with a hole for the display and smaller holdes for string, and decorate the way that you want.
+4) Tape the board and battery to the envelope, fold it up, and tape it closed.
+5) Tie the string onto the envelope so that it hangs from the screen.
