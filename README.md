@@ -10,7 +10,7 @@ filling the screen. After it fully covers the screen, the display loops.
 
 It should look like this: 
 
-<img src="./pictures_gofs/ttgo_display.gif"/>
+![ttgo_display](https://github.com/huangs-nyc/falling-marbles-esp32/blob/9dd9c91e0a2454330561698767850b9a9c17cc93/pictures_gifs/ttgo_display.gif)
 
 
 
