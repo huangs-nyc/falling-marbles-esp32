@@ -17,7 +17,7 @@ Ensure that there is a power source for the ESP32 display: battery, computer, et
 # Display Installation
 1) Once the display is functional and looks like the above, you can attach a battery to the side of the board opposite of the display screen.
 
-<a href="url"><img src="" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/huangs-nyc/falling-marbles-esp32/blob/a68b3388f226019fb707169c2a9eec97c21c5a71/pictures_gifs/battery_board.png" height="400" width="300"></a>
 
 3) Prepare a cardstock envelope big enough to fit the battery and board with a hole for the display and smaller holdes for string, and decorate the way that you want.
 4) Tape the board and battery to the envelope, fold it up, and tape it closed.
