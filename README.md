@@ -10,7 +10,7 @@ filling the screen. After it fully covers the screen, the display loops.
 
 It should look like this: 
 
-![ttgo_display](./pictures_gifs/ttgo_display.gif)
+<img src="./pictures_gofs/ttgo_display.gif"/>
 
 
 
