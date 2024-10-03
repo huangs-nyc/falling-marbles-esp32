@@ -10,7 +10,7 @@ filling the screen. After it fully covers the screen, the display loops.
 
 It should look like this: 
 
-
+![ttg0_display](
 
 Ensure that there is a power source for the ESP32 display: battery, computer, etc.
 
